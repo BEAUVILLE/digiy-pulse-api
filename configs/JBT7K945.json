@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "name": "CHEZ BAPTISTE LA BONNE TABLE",
+    "address": "Saly, Sénégal",
+    "tel": "+221771342889",
+    "ninea": "NINEA: EN COURS",
+    "pin": "1234",
+    "updated": "2025-10-26T23:30:00.000Z",
+    "subscription": {
+      "token": "JBT7K945",
+      "owner": "JB BAPTISTE",
+      "email": "DIGIYLYFE@GMAIL.COM",
+      "phone": "+221771342889",
+      "startDate": "2025-10-26",
+      "expiryDate": "2026-10-26",
+      "status": "active",
+      "plan": "standard",
+      "price": "125000 FCFA"
+    }
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Thiébou Djeun",
+      "cat": "Plat Principal",
+      "price": 3500,
+      "stock": 50
+    },
+    {
+      "id": "2",
+      "name": "Yassa Poulet",
+      "cat": "Plat Principal",
+      "price": 3000,
+      "stock": 40
+    },
+    {
+      "id": "3",
+      "name": "Mafé",
+      "cat": "Plat Principal",
+      "price": 3200,
+      "stock": 35
+    },
+    {
+      "id": "4",
+      "name": "Tiep Bou Yapp",
+      "cat": "Plat Principal",
+      "price": 4000,
+      "stock": 30
+    },
+    {
+      "id": "5",
+      "name": "Poulet Braisé",
+      "cat": "Grillades",
+      "price": 2500,
+      "stock": 60
+    },
+    {
+      "id": "6",
+      "name": "Dibi Agneau",
+      "cat": "Grillades",
+      "price": 5000,
+      "stock": 25
+    },
+    {
+      "id": "7",
+      "name": "Pastels",
+      "cat": "Entrées",
+      "price": 500,
+      "stock": 100
+    },
+    {
+      "id": "8",
+      "name": "Accra",
+      "cat": "Entrées",
+      "price": 500,
+      "stock": 80
+    },
+    {
+      "id": "9",
+      "name": "Salade Sénégalaise",
+      "cat": "Entrées",
+      "price": 1500,
+      "stock": 50
+    },
+    {
+      "id": "10",
+      "name": "Jus de Bissap",
+      "cat": "Boissons",
+      "price": 800,
+      "stock": 100
+    },
+    {
+      "id": "11",
+      "name": "Jus de Gingembre",
+      "cat": "Boissons",
+      "price": 800,
+      "stock": 100
+    },
+    {
+      "id": "12",
+      "name": "Thiakry",
+      "cat": "Desserts",
+      "price": 1000,
+      "stock": 40
+    }
+  ]
+}
