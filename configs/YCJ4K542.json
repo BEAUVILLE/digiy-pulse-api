@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "name": "boutique ASTOU",
+    "address": "residence nafil saly",
+    "tel": "+221778765785",
+    "ninea": "ninea 123456",
+    "pin": "1234",
+    "updated": "2025-10-26T12:47:52.086Z",
+    "subscription": {
+      "token": "YCJ4K542",
+      "owner": "ASTOU SOW",
+      "email": "baptistejb24@gmail.com",
+      "phone": "+221778765785",
+      "startDate": "2025-10-25",
+      "expiryDate": "2026-10-24",
+      "status": "active",
+      "plan": "standard",
+      "price": "125000 FCFA"
+    }
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Produit 1",
+      "cat": "Général",
+      "price": 5000,
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "name": "Produit 2",
+      "cat": "Général",
+      "price": 10000,
+      "stock": 10
+    }
+  ]
+}

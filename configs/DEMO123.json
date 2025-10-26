@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "name": "Boutique Test",
+    "address": "Dakar, Sénégal",
+    "tel": "+221771234567",
+    "subscription": {
+      "token": "DEMO123",
+      "owner": "Jean-Baptiste",
+      "email": "test@demo.com",
+      "startDate": "2025-01-01",
+      "expiryDate": "2026-01-01",
+      "status": "active"
+    }
+  },
+  "products": []
+}
